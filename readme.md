@@ -2,9 +2,7 @@
 
 # Getting Involved
 
-Clone and hack away.
-
-I should be updating the repo with a VaryingVagrantVagrants setup you can use to hack better.
+If you use VVV, you can use [itempres-vvv](https://github.com/aubreypwd/itempress-vvv) to get started. Or, fork, hack, and submit a pull request.
 
 ## IRC
 
