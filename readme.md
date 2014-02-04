@@ -1,22 +1,19 @@
-**ItemPress-develop** is the development repo for the [ItemPress Plugin](http://wordpress.org/plugins/itempress/) on WordPress.org.
+[ItemPress](http://wordpress.org/plugins/itempress/) is a robust custom post type that will allow you to create new content with the freedom of ambiguity.
 
-## Getting Involved
+# Getting Involved
 
-**Bugs** and **new features suggestions** are all initially filed on the WordPress.org [Support Tab](http://wordpress.org/support/plugin/itempress). They are then automatically pushed to the [ItemPress Development Board](https://trello.com/b/OrTYa3Bp/itempress-development-board) on Trello where things get organized.
+Clone and hack away.
 
-I want getting support and tracking development for ItemPress to be as easy as possible, so please use the [Support Tab](http://wordpress.org/support/plugin/itempress) to:
+I should be updating the repo with a VaryingVagrantVagrants setup you can use to hack better.
 
-- Report bugs
-- Contribute patches, etc
-- Suggest new ideas & features
-- Get general support (try IRC first)
+## IRC
 
-The [Support Tab](http://wordpress.org/support/plugin/itempress) is the best way of getting in contact with me!
+**#itempress** is an official channel on freenode. Join there to get help, discuss new features, or just say Hi. I am usually there Mon-Fri 10am - 4pm MST. Ping @aubreypwd to get my attention. Some official meetings will happen there in the future.
 
-### IRC
+## aubreypwdev on Trello
 
-**#itempress** is an official channel on freenode. Join there to get help, discuss new features, or just say Hi. I am usually there Mon-Fri 10am - 4pm MST-Arizona. Ping my username @aubreypwd to get my attention. Some official meetings will happen there in the future.
+Development stuff also happens on Trello at my [public board](https://trello.com/b/uk3hdBiF).
 
-## Documentation
+# Documentation
 
 I am currently working on ItemPress's documentation on the [ItemPress Codex](http://codex.wordpress.org/index.php?title=User:Aubreypwd/itempress)
